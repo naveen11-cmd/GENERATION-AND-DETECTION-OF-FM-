@@ -63,7 +63,18 @@ MODEL GRAPH
 
 
 TABULATION
-		
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/5896d0ee-bba5-4638-b684-7edd414c113a" />
+
+OUTPUT WAVEFORM
+
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/5c8399af-c824-47cc-9461-9ae4d395cd74" />
+
 CALCULATIONS
 
+<img width="1363" height="889" alt="image" src="https://github.com/user-attachments/assets/61427dee-825e-4770-a324-93af82cddd55" />
+
 RESULT
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/5ab1eb67-44f3-480d-bc2b-e35d41dd1219" />
+
